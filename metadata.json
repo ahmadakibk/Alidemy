@@ -1,0 +1,6 @@
+{
+  "name": "Alidemy",
+  "description": "Comprehensive learning platform for Grades 6-12 with study materials, interactive quizzes, video lectures, and peer forum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
